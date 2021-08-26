@@ -9,10 +9,19 @@ has_children: true
 {: .no_toc }
 
 
-This collections of pages contains the summary of following sources:
+This collections of pages contains the summary of following sources.
+
+## Books
   * Atomic Habits book
   * Power of Habits book
   * Tiny Habits
+
+## Videos
+  * [Outliers: Why Some People Succeed and Some Don't](https://www.youtube.com/watch?v=EcMKLwVlpJk)
+
+## Others
   * Daily routines of successful people
   * Internet articles
+
+
 
