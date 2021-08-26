@@ -1,2 +1,2 @@
 ## Productivity
-* [Habits](/habits/)
+* [Habits](habits/)
