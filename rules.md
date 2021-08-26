@@ -1,5 +1,5 @@
 layout: page
-title: Rules and Laws
+title: "Rules and Laws"
 permalink: /rules/
 
 1. Compounding effect
