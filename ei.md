@@ -40,3 +40,9 @@ nav_order: 10
 
 * Have a presence of mind
 * No multitasking. I'm doing one task at a time
+
+## Relax
+
+* Your ability to relax is in direct proportion to your `ability to trust life`. 
+* `Ability to generate power` is directly proportional to ability to relax.
+
