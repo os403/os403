@@ -41,6 +41,7 @@ nav_order: 2
     - `anchoring and adjustment`: use their own internal feelings of anxiety and the accompanying self-representation as an anchor (then insufficiently correct for the fact that others are less privy to those feelings than they are themselves)
     - `illusion of transparency` overestimate the degree to which their personal mental state is known by others. Another manisfestation of the illusion of transparency is tendency to overestimate how well they understand other's personal mental states.
     - `Self-as-target bias`: believes that events are disproportionately directed towards him or herself.
+    - `Self-serving bias`: People tend to ascribe success to their own abilities and efforts, but ascribe failures to external factors.
 
 ## False uniqueness (& consensus) effect
 - People tend to view their qualities, traits and personal attributes as unique when they are not. 
@@ -56,6 +57,8 @@ nav_order: 2
 ## Planning fallacy
 
 ## Fundamental attribution error
+- Also known as correspondence bias or attribution effect
+- 
 
 ## Actor-observer assymmetry
 
