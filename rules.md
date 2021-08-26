@@ -9,7 +9,7 @@ permalink: /rules/
     - Also, called as 8th wonder of the world
 ```
 
-4. Pareto or 80/20 Principle
+2. Pareto or 80/20 Principle
 
 ```markdown
     - 80% of consequences come from 20% of causes
@@ -17,10 +17,10 @@ permalink: /rules/
     - Related: Diminishing returns
 ```
 
-5.  Zipf Law
+3.  Zipf Law
     - Rank-frequency has inverse relation
 
-6.  Goldilocks rule
+4.  Goldilocks rule
 
 ```markdown
     - Peak motiviation happens when the task is not too hard or too difficult. 
@@ -29,4 +29,4 @@ permalink: /rules/
     - This is applicable for habits as well.
 ```
 
-7.  
+5.  
