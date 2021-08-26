@@ -54,4 +54,9 @@ nav_order: 2
 - Start using Decision Journal
 
 ## Planning fallacy
-- 
+
+## Fundamental attribution error
+
+## Actor-observer assymmetry
+
+
