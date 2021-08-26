@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About 
-nav_order: 9999 
+nav_exclude: true 
 ---
 
 # [About 0403](https://os403.github.io/os403/README)
