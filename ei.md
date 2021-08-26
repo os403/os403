@@ -15,7 +15,7 @@ nav_order: 10
 
 ---
 
-# Emotional Intelligence
+## Emotional Intelligence
 
 * Never lose your temper. The person who makes you angry controls you.
 
@@ -33,13 +33,13 @@ nav_order: 10
 
 * Think with brain but no
 
-# Gratitude
+## Gratitude
 
 * I am filled with gratitude for another day on this earth.
 * I value what I have.
 * I appreciate someone unappreciated. I will give credit to other people.
 
-# Presence, Focus and Attention
+## Presence, Focus and Attention
 
 * Have a presence of mind
 * No multitasking. I'm doing one task at a time
