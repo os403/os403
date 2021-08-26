@@ -79,7 +79,8 @@ This page contains the summary of following sources:
 11. Habits reinforcement
 
 12. Habits Tracking
-    1. Goodharts Law: When a measure becomes a target, it ceases to be a good measure. 
+    1. Use habits tracking carefully (Garmin for fitness, Mint for finance, etc)
+    2. `Goodharts Law`: When a measure becomes a target, it ceases to be a good measure. 
 
 13. Accountability Partner & Habit contract
     1. Have someone to watch your back
@@ -89,7 +90,7 @@ This page contains the summary of following sources:
     1. Use explore and exploit trade off 
     2. -OR- Split testing to figure out the circle of competence and what works for you 
 
-16. Goldilocks Rule: How to stay motivated in Life and work.
+16. `Goldilocks Rule`: How to stay motivated in Life and work.
 
 17. use Decision Journal
 
