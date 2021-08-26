@@ -9,4 +9,10 @@ has_children: true
 {: .no_toc }
 
 
+This collections of pages contains the summary of following sources:
+  * Atomic Habits book
+  * Power of Habits book
+  * Tiny Habits
+  * Daily routines of successful people
+  * Internet articles
 
