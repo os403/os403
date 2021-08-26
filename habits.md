@@ -1,9 +1,22 @@
 
-layout: page
-title: "Habits"
-permalink: /habits/
+---
+layout: default
+title: Habits, Producivity
+nav_order: 4
+---
 
-```markdown
+# Habits, Producivity
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
+
+```
 This page contains the summary of following sources:
 
 * Atomic Habits book
@@ -15,7 +28,7 @@ This page contains the summary of following sources:
 * Keep the `Phone away` from the desk
 * Desk contains: 
 
-```markdown
+```
 * Water 
 * Glass
 * Notebook & Pen
@@ -27,7 +40,7 @@ This page contains the summary of following sources:
 * Take a walk once in a hour
 * Avoid the following
 
-```markdown
+```
   * The stress indicators
     - Don't shake legs
     - Avoid the urge the listen the songs or videos
@@ -51,7 +64,7 @@ This page contains the summary of following sources:
 
 3. A single habit is comprised of 
 
-```markdown
+```
 1. Cue
 2. Craving
 3. Routine
@@ -60,7 +73,7 @@ This page contains the summary of following sources:
 
 4. Three rules aid forming a habit:
 
-```markdown
+```
 1. Make it obvious
 2. Make it attractive
 3. Make it easy or effortless
