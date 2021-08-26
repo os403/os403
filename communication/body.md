@@ -16,13 +16,7 @@ nav_order: 4
 
 ---
 
-```
-This page contains the summary of following sources:
-
-* What Every BODY is saying
-* UC Berkeley: Business communication course
-```
-
+## Body
 * Don't slouch
 * Don't stand when other people are sitting (aggressive).
 * Don't discuss in small room
