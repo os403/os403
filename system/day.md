@@ -2,7 +2,7 @@
 layout: default
 title: A Day in Review
 nav_order: 41
-parent: Habits
+parent: System
 ---
 
 # A Day in Review
