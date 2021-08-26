@@ -19,16 +19,24 @@ parent: Habits
 ## Morning Routine (1h 30m)
 
 * Wake Up
-* Breathing [20 mins]
+* Breathing (20 mins)
 * Get up from bed
 * Throw trash & Pack
-* Walk [30 mins - 2KM]
+* Walk (30 mins - 2KM)
 * Cleanup Desk
 * Fill Water bottle
 * Charge:
     * Watch, phone, headset, tablet
-* Brush [5 mins]
-* Bath [20 min]
+* Brush (5 mins)
+* Bath (20 min)
 * Wear watch
 
+## Night Routine 
+
+* Face wash
+* Read tomorrow's agenda (From work profile)
+* Close all chrome tabs
+* Log out, Turn off
+* Breathing (20 mins)
+* Turn off lights and fans
 
