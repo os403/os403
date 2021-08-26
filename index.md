@@ -1,5 +1,5 @@
 ## Rules
-* [Rules](rules/)
+* [Rules](rules)
 
 ## Productivity
-* [Habits](habits/)
+* [Habits](habits)
