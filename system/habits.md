@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Habits
+parent: System
 nav_order: 4
-has_children: true
 ---
 
 # Habits, Producivity
