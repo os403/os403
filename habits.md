@@ -1,6 +1,9 @@
+---
 layout: page
 title: "Habits"
 permalink: /habits/
+---
+
 
 ```markdown
 This page contains the summary of following sources:
