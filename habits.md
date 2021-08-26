@@ -1,8 +1,6 @@
----
 layout: page
 title: "Habits"
 permalink: /habits/
----
 
 
 ```markdown
