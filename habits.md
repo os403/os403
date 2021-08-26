@@ -11,17 +11,35 @@ This page contains the summary of following sources:
 ```
 
 ## Environment
-* Keep the Phone away from the desk
-* Desk contains: Water, Glass, Notebook, Pen, Headset
+* Keep the `Phone away` from the desk
+* Desk contains: 
+```markdown
+* Water 
+* Glass
+* Notebook & Pen
+* Headset
+```
 * Clean the desk when you leave the desk
 * Drink water throughout the day
-* Avoid stress indicators:
-  * Don't shake legs
-  * Avoid the urge the listen the songs or videos
-  * Avoid doing multi-tasking
 * Deep breath often
 * Take a walk once in a hour
+* Avoid the following
+```markdown
+  * The stress indicators
+    - Don't shake legs
+    - Avoid the urge the listen the songs or videos
+    - Avoid doing multi-tasking
+  * Do not try beta products (they will have issues)
+  * Do not install OS (or updates) in the morning; It takes time and might have issues; 
+```
 
+## Work and Personal Life Separation
+* Keep the work profile completely different from a personal account.
+* Share
+  - Keep Notes from one desktop to another
+  - Calendar items to work
+* Log in to work profile from 10am to 6pm
+* Switch to personal profile from 7pm to 12pm
 
 
 ## Habits
@@ -29,14 +47,14 @@ This page contains the summary of following sources:
 1. Habits compound. Bad habits compound badly.
 
 3. A single habit is comprised of 
-```
+```markdown
 1. Cue
 2. Craving
 3. Routine
 4. Reward
 ```
 4. Three rules aid forming a habit:
-```
+```markdown
 1. Make it obvious
 2. Make it attractive
 3. Make it easy or effortless
