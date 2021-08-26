@@ -1,10 +1,10 @@
 ---
 layout: default
-title: os403 
-nav_exclude: true 
+title: About 
+nav_order: 9999 
 ---
 
-# Welcome to GitHub Pages
+# About
 {: .no_toc }
 
 ## Table of contents
