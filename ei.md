@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Emotional Intelligence, Presence, Focus
+title: Emotional Intelligence
 nav_order: 10
 ---
 
