@@ -27,11 +27,19 @@ nav_order: 10
 
 * Never react. Keep an emotional journal
 
-* `Listen` more than you talk     
+* `Listen` more than you talk
 
+* be OK with less than perfect. Don't care much about what other people think. Progress is more importan than perfection.
+
+* Think with brain but no
+
+# Gratitude
+
+* I am filled with gratitude for another day on this earth.
+* I value what I have.
+* I appreciate someone unappreciated. I will give credit to other people.
 
 # Presence, Focus and Attention
 
 * Have a presence of mind
-
-* No multitasking 
+* No multitasking. I'm doing one task at a time
