@@ -33,6 +33,9 @@ parent: Habits
 
 ## Task of the day (Focus of the day)
 * Pick a task of the day + two more tasks to be completed
+* Implementation code
+* Writing design
+* Preparing presentation
 
 ## Less urgent but important tasks
 - Code Review
