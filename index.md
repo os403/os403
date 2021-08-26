@@ -1,6 +1,6 @@
 ---
 layout: default
-title: os403: notes and thoughts
+title: About
 nav_exclude: true
 ---
 
