@@ -51,9 +51,13 @@ This page contains the summary of following sources:
 
 ## Work and Personal Life Separation
 * Keep the work profile completely different from a personal account.
+* Don't create personal account in work profile chrome
+* Remove from work profile:
+  - Any personal passwords from passwords.google.com (make it difficult to login from work)
+  - Personal apps which includes Amazon, Netflix, Kindle, etc
 * Share
-  - Keep Notes from one desktop to another
-  - Calendar items to work
+  - Keep Notes from one desktop to another (Use these for reminders)
+  - Calendar items to work 
 * Log in to work profile from 10am to 6pm
 * Switch to personal profile from 7pm to 12pm
 
