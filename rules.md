@@ -2,14 +2,15 @@ layout: page
 title: "Rules and Laws"
 permalink: /rules/
 
-1. Compounding effect
+
+#### Compounding effect
 
 ```markdown
     - Rich gets richer
     - Also, called as 8th wonder of the world
 ```
 
-2. Pareto or 80/20 Principle
+#### Pareto or 80/20 Principle
 
 ```markdown
     - 80% of consequences come from 20% of causes
@@ -17,10 +18,10 @@ permalink: /rules/
     - Related: Diminishing returns
 ```
 
-3.  Zipf Law
+####  Zipf Law
     - Rank-frequency has inverse relation
 
-4.  Goldilocks rule
+####  Goldilocks rule
 
 ```markdown
     - Peak motiviation happens when the task is not too hard or too difficult. 
@@ -29,4 +30,4 @@ permalink: /rules/
     - This is applicable for habits as well.
 ```
 
-5.  
+#### 
