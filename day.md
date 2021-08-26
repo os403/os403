@@ -31,6 +31,20 @@ parent: Habits
 * Bath (20 min)
 * Wear watch
 
+## Task of the day (Focus of the day)
+* Pick a task of the day + two more tasks to be completed
+
+## Less urgent but important tasks
+- Code Review
+- GMail reading, responding
+- Team chats (reading and responding)
+
+## Lunch
+* Face wash
+* Fill Water Bottle
+* Lunch
+* Breathing (20 mins)
+
 ## Night Routine 
 
 * Face wash
