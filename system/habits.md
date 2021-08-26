@@ -55,4 +55,7 @@ nav_order: 4
 * use Decision Journal
 * `Two minutes rule`: if some actions needs less then two minutes, then `do-it-now` on the spot
 
+## Discipline
 
+* Discipline will sooner or later defeat intelligence.
+* When it comes to poverty, we underestimate how powerful constraint it is.
