@@ -1,4 +1,19 @@
-## Welcome to GitHub Pages
+---
+layout: default
+title: os403 
+nav_exclude: true 
+---
+
+# Welcome to GitHub Pages
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+---
 
 You can use the [editor on GitHub](https://github.com/os403/os403/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
