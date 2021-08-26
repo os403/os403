@@ -16,8 +16,9 @@ nav_order: 5
 
 ---
 
-## Phone
-* Keep the `Phone away` from the desk
+## Phone 
+* Keep the `Phone away` from the desk. Ideally some place in the room 4-5 ft away from desk.
+* If you need to attend the call or read text, read it in the Phone's place. Don't bring Phone to desk.
 
 ## Desk
 * Desk contains: 
@@ -29,9 +30,9 @@ nav_order: 5
 * Headset
 ```
 * Clean the desk when you leave the desk
-* Drink water throughout the day
-* Deep breath often
-* Take a walk once in a hour
+* Keep the water bottler on the desk: Drink water throughout the day
+    * Deep breath when you drink water
+    * Take a walk once in a hour
 * Avoid the following
 
 ```
