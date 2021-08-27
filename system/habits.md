@@ -16,8 +16,13 @@ nav_order: 4
 
 ---
 
-## Keystone Habit
-* 
+## Keystone Habit (Domino effect)
+* One habit can have a chain reaction impact on multiple areas of your life. 
+* For example: 
+    * Walking in the morning
+    * Eating at home (save expenses)
+    * Eating apple instead of pizza (better health)
+* Ensure the keystone habit is the one thing followed, even in the test of time. 
 
 ## Habits
 
