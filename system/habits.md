@@ -22,7 +22,7 @@ nav_order: 4
 * For example:
     * Dress better
     * Make your bed
-    * Walking|Exercise in the morning
+    * Walking or Exercise in the morning
     * Eating at home (save expenses)
     * Eating apple instead of pizza (better health)
     * Practice Gratitude
