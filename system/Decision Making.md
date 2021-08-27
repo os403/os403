@@ -19,6 +19,12 @@ nav_order: 4
 ## Decision
 * Life is sum of all the decisions
 
+## Analysis and Paralysis
+* The perfect is the enemy of the good
+* The best thing is to do the right thing; The next best thing is to do wrong thing; The worst thing of all things is to `stand perfectly still`
+* Give them the third best to go on with; the second best comes too late, the best never comes
+* Better a good decision quickly than the best decision too late
+
 ## Decision Fatigue
 * Reduction in quality of decisions after a long session of decision making. 
 * Related funny paradox: People who lack choices seem to want them and often will fight for them. Yet at the same time, People find that making many choices aversive. 
@@ -32,4 +38,5 @@ nav_order: 4
     * Use common `decision templates` for managing home, relatives and other interactions 
 
 
+## Decision Balance Sheet (Ben Franklin method)
 
