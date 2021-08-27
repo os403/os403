@@ -17,11 +17,16 @@ nav_order: 4
 ---
 
 ## Keystone Habit (Domino effect)
-* One habit can have a chain reaction impact on multiple areas of your life. 
-* For example: 
-    * Walking in the morning
+* **Keystone** is the stone that sits directly in the center of an arch and helps to interlock all of the other stones in place, while bearing the least amount of weight.
+* Keystone habit is a fundamental part of any healthy habit routine. One habit (or small change) can have a chain reaction impact on multiple areas of your life. 
+* For example:
+    * Dress better
+    * Make your bed
+    * Walking|Exercise in the morning
     * Eating at home (save expenses)
     * Eating apple instead of pizza (better health)
+    * Practice Gratitude
+    * Meditation
 * Ensure the keystone habit is the one thing followed, even in the test of time. 
 
 ## Habits
@@ -36,7 +41,7 @@ nav_order: 4
 4. Reward
 ```
 
-* Three rules aid forming a habit:
+* Three rules help forming a habit:
 
 ```
 1. Make it obvious
